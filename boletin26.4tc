@@ -1,0 +1,35 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{2}{x2-1000}{QQ2-2-1}{Editorial}}{2}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{2}{Q1-2-2}{}{Editorial}}{2}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{3}{x3-2000}{QQ2-3-3}{Palabras de la expresidenta}}{6}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{3}{Q1-3-4}{}{Palabras de la expresidenta}}{6}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{4}{x4-3000}{QQ2-4-5}{Palabras del presidente}}{9}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{4}{Q1-4-6}{}{Palabras del presidente}}{9}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{5}{x5-40001}{QQ2-5-7}{Manuel J. Castro, nuevo presidente de la SEMA}}{12}\relax 
+\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{5}{x5-4001r1}{}{\ignorespaces El profesor Manuel Jes\'us Castro D\IeC {\'\i }az, presidente de la SEMA.}}{figure}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{6}{x6-50002}{QQ2-6-9}{Impacto de las redes sociales de la SEMA durante su primer a\~no}}{18}\relax 
+\doTocEntry\tocsubsection{2.1}{\csname a:TocLink\endcsname{6}{x6-60002.1}{QQ2-6-10}{Evoluci\'on del perfil de Twitter}}{18}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-70002.1}{QQ2-6-11}{Diciembre 2019 - Enero 2020}}{18}\relax 
+\doTocEntry\toclof{2}{\csname a:TocLink\endcsname{6}{x6-7001r2}{}{\ignorespaces Impresiones durante el periodo Diciembre 2019 - Enero 2020. En gris, n\'umero de \textit  {tweets} publicados cada d\IeC {\'\i }a y, en azul, n\'umero de impresiones diarias.}}{figure}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-80002.1}{QQ2-6-13}{Febrero 2020 - Marzo 2020}}{22}\relax 
+\doTocEntry\toclof{3}{\csname a:TocLink\endcsname{6}{x6-8001r3}{}{\ignorespaces Impresiones durante el periodo Febrero 2020 - Marzo 2020.}}{figure}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-90002.1}{QQ2-6-15}{Abril 2020 - Mayo 2020}}{25}\relax 
+\doTocEntry\toclof{4}{\csname a:TocLink\endcsname{6}{x6-9001r4}{}{\ignorespaces Impresiones durante el periodo Abril 2020 - Mayo 2020.}}{figure}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-100002.1}{QQ2-6-17}{Junio 2020 - Julio 2020}}{28}\relax 
+\doTocEntry\toclof{5}{\csname a:TocLink\endcsname{6}{x6-10001r5}{}{\ignorespaces Impresiones durante el periodo Junio 2020 - Julio 2020.}}{figure}\relax 
+\doTocEntry\toclof{6}{\csname a:TocLink\endcsname{6}{x6-10002r6}{}{\ignorespaces Tweet dedicado a Alan Turing\footnotemark [1] con motivo del D\IeC {\'\i }a Internacional del Orgullo LGBT.}}{figure}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-110002.1}{QQ2-6-20}{Agosto 2020 - Septiembre 2020}}{31}\relax 
+\doTocEntry\toclof{7}{\csname a:TocLink\endcsname{6}{x6-11001r7}{}{\ignorespaces Impresiones durante el periodo Agosto 2020 - Septiembre 2020.}}{figure}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-120002.1}{QQ2-6-22}{Octubre 2020 - Noviembre 2020}}{34}\relax 
+\doTocEntry\toclof{8}{\csname a:TocLink\endcsname{6}{x6-12001r8}{}{\ignorespaces Impresiones durante el periodo Octubre 2020 - Noviembre 2020.}}{figure}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-130002.1}{QQ2-6-24}{Diciembre 2020 - Enero 2021}}{37}\relax 
+\doTocEntry\toclof{9}{\csname a:TocLink\endcsname{6}{x6-13001r9}{}{\ignorespaces Impresiones durante el periodo Diciembre 2020 - Enero 2021.}}{figure}\relax 
+\doTocEntry\toclof{10}{\csname a:TocLink\endcsname{6}{x6-13002r10}{}{\ignorespaces Interacciones durante el periodo Diciembre 2020 - Enero 2021.}}{figure}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-140002.1}{QQ2-6-27}{Resumen}}{43}\relax 
+\doTocEntry\toclof{11}{\csname a:TocLink\endcsname{6}{x6-14001r11}{}{\ignorespaces Estimaciones relativas al n\'umero de d\IeC {\'\i }as de cada periodo.}}{figure}\relax 
+\doTocEntry\tocsubsection{2.2}{\csname a:TocLink\endcsname{6}{x6-150002.2}{QQ2-6-29}{Perfiles de Instagram y Facebook}}{46}\relax 
+\doTocEntry\toclof{12}{\csname a:TocLink\endcsname{6}{x6-15001r12}{}{\ignorespaces Publicaciones principales en Instagram (izquierda, con 60 interacciones) y Facebook (derecha, con 55 interacciones).}}{figure}\relax 
+\doTocEntry\tocsubsection{2.3}{\csname a:TocLink\endcsname{6}{x6-160002.3}{QQ2-6-31}{Balance del primer a\~no}}{49}\relax 
+\doTocEntry\toclof{13}{\csname a:TocLink\endcsname{6}{x6-16001r13}{}{\ignorespaces Portal de la SEMA \url  {https://www.sema.org.es/es/}.}}{figure}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{7}{x7-170003}{QQ2-7-33}{Joaquim Serra y su universo matem\'atico}}{54}\relax 
+\doTocEntry\toclof{14}{\csname a:TocLink\endcsname{7}{x7-17002r14}{}{\ignorespaces Viaje a Par\IeC {\'\i }s en primavera de 2003: Joaquim \textsc  {Serra} (izquierda) y compa\~neros del primer curso de bachillerato. Foto: Mariona \textsc  {Petit}. }}{figure}\relax 

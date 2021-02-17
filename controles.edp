@@ -1,0 +1,30 @@
+
+string carpeta="/Users/macbook/Documents/Boletin-SEMA/Boletin-N26-febrero2021/";
+
+
+{
+ofstream file(carpeta+"controles.tex"); 
+real lambda=0.01;
+real t;
+int Npartes=21;
+real deltat=pi/2;
+real[int] xx(Npartes), yy(Npartes);
+
+for (int i=0; i<Npartes;i++){
+	t = i*deltat;
+	xx(i) = -(10*pi-abs(t-10*pi)^1.5/(10*pi)^0.5)/(3*pi)*cos(t);
+	yy(i) = (10*pi-abs(t-10*pi)^1.5/(10*pi)^0.5)/(3*pi)*sin(t);
+	;}
+	
+for (int i=0; i<Npartes/2;i++){
+	file << "("<<xx(2*i)<<","<<0<<") .. controls  ("<<xx(2*i)<<","<<yy(2*i+1)<<
+	                                    ") .. ("<<0<<","<<yy(2*i+1)<<")"<<endl;
+	file <<  ".. controls  ("<<xx(2*i+2)<<","<<yy(2*i+1) <<") .. "<<endl;
+	}
+	file << "("<<xx(Npartes-1)<<","<<0<<");"<<endl;
+	
+}
+	
+	
+	
+	

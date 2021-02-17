@@ -1,0 +1,47 @@
+\select@language {french}
+\select@language {spanish}
+\contentsline {section}{Editorial}{3}{section*.2}
+\contentsline {section}{Palabras de la expresidenta}{5}{section*.3}
+\contentsline {section}{Palabras del presidente}{7}{section*.5}
+\contentsline {section}{\numberline {1}Manuel J. Castro, nuevo presidente de la SEMA}{8}{section.1}
+\contentsline {section}{\numberline {2}Impacto de las redes sociales de la SEMA durante su primer a\~no}{10}{section.2}
+\contentsline {subsection}{\numberline {2.1}Evoluci\'on del perfil de Twitter}{10}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Perfiles de Instagram y Facebook}{15}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Balance del primer a\~no}{16}{subsection.2.3}
+\contentsline {section}{\numberline {3}Joaquim Serra y su universo matem\'atico}{18}{section.3}
+\contentsline {section}{\numberline {4}XXVI CEDYA / XVI CMA Gij\'on}{30}{section.4}
+\contentsline {subsection}{\numberline {4.1}Antecedentes}{30}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Congreso {\em online}}{30}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Inscripci\'on}{30}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}\em Open call}{31}{subsection.4.4}
+\contentsline {section}{\numberline {5}Convocatoria del XXIV Premio SEMA <<Antonio Valle>> al Joven Investigador (2021)}{32}{section.5}
+\contentsline {subsection}{\numberline {5.1}Pre\'ambulo}{32}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Bases generales}{32}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Bases particulares de la convocatoria 2021}{33}{subsection.5.3}
+\contentsline {section}{\numberline {6}Noticias}{34}{section.6}
+\contentsline {subsection}{\numberline {6.1}Asamblea de la Asociaci\'on ICIAM2019}{34}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}El profesor Luis V\'azquez Mart\IeC {\'\i }nez recibe el <<Premio Liouville>>}{35}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Obituario: Carles Perell\'o i Valls, 1932-2021}{36}{subsection.6.3}
+\contentsline {section}{\numberline {7}Anuncios}{37}{section.7}
+\select@language {english}
+\contentsline {subsection}{\numberline {7.1}International call: Director, International Centre for Mathematical Sciences}{37}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}SAYAS NUMERICS SEMINAR in Spring 2021}{37}{subsection.7.2}
+\select@language {spanish}
+\contentsline {subsection}{\numberline {7.3}Premios de Investigaci\'on Matem\'atica Vicent Caselles, Real Sociedad Matem\'atica Espa\~nola - Fundaci\'on BBVA. Convocatoria 2021}{38}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}163 European Study Group with Industry, 12-16 julio 2021, \textit {online}}{39}{subsection.7.4}
+\select@language {spanish}
+\contentsline {subsection}{\numberline {7.5}XIX Escuela Hispano-Francesa Jacques-Louis Lions sobre Simulaci\'on Num\'erica en F\IeC {\'\i }sica e Ingenier\IeC {\'\i }a}{40}{subsection.7.5}
+\select@language {english}
+\contentsline {subsection}{\numberline {7.6}VI ECCOMAS Young Investigators Conference}{41}{subsection.7.6}
+\contentsline {subsection}{\numberline {7.7}PARTICLES 2021, VII International Conference on Particle-Based Methods, 4-6 October 2021, Hamburg, Germany}{42}{subsection.7.7}
+\contentsline {subsection}{\numberline {7.8}COMPOSITES 2021, VIII Conference on the Mechanical Response of Composites, 22-24 September 2021, Gothenburg, Sweden}{43}{subsection.7.8}
+\contentsline {subsubsection}{\numberline {7.8.1}Chairs of COMPOSITES 2021}{43}{subsubsection.7.8.1}
+\select@language {spanish}
+\contentsline {subsection}{\numberline {7.9}Actividades del Instituto de Matem\'aticas de la Universidad de Sevilla, IMUS}{44}{subsection.7.9}
+\select@language {english}
+\contentsline {subsection}{\numberline {7.10}Basque Center for Applied Mathematics}{45}{subsection.7.10}
+\select@language {spanish}
+\contentsline {section}{\numberline {8}SEMA \textit {Journal}}{47}{section.8}
+\contentsline {section}{\numberline {9}\IeC {\textquestiondown }C\'omo est\'a hecho el cuadrado de la portada con la espiral de $\pi $?}{48}{section.9}
+\select@language {spanish}
+\contentsline {section}{\numberline {10}Socios institucionales}{50}{section.10}

@@ -1,0 +1,3457 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?> 
+<?xml-stylesheet href="boletin26.css" type="text/css"?> 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216.64099pt" height="216.64099pt" viewBox="-108.3205 -108.3205 216.64099 216.64099 "> 
+<g transform="translate(0, 108.3205 ) scale(1,-1) translate(0,108.3205 )"> 
+                            <g>
+ <g stroke="rgb(0.0%,0.0%,0.0%)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <g stroke-width="0.4pt">
+ <g>
+ </g>
+ <g>
+ <g>
+ <g stroke="rgb(100.0%,100.0%,0.0%)">
+ <g>
+ <clipPath id="pgfcp9"> <path d=" M  -108.1205 -108.1205 M  -108.1205 -108.1205 L  -108.1205 108.1205 L  108.1205 108.1205 L  108.1205 -108.1205 Z M  108.1205 108.1205  "/>
+</clipPath>
+ <g clip-path="url(#pgfcp9)">
+ <g transform="matrix(1,0,0,1,0.0,0.0)">
+ <g transform="matrix(4.30923,0,0,4.30923,0.0,0.0)">
+ <g transform="matrix(1.0,0.0,0.0,1.0,0.0,0.0)">
+  <radialGradient id="pgfsh10" fx="0.5" fy="0.5" >
+ <stop offset=" 0.0" stop-color=" rgb(100.0%,100.0%,0.0%) "/>
+ <stop offset=" 0.5" stop-color=" rgb(55.0003%,55.0003%,44.9997%) "/>
+ <stop offset=" 1.0" stop-color=" rgb(55.0003%,55.0003%,44.9997%) "/>
+ </radialGradient>
+ <g transform="translate(-50.1875,-50.1875)"> 
+ <circle cx="50.1875" cy="50.1875" r="50.1875" style="fill:url(#pgfsh10); stroke:none"/>
+ </g> 
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ <path d=" M  -108.1205 -108.1205 M  -108.1205 -108.1205 L  -108.1205 108.1205 L  108.1205 108.1205 L  108.1205 -108.1205 Z M  108.1205 108.1205  " style="fill:none"/>
+ </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,-25.12158,7.56978)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(13.74066,0)" text-anchor="middle"  font-size="10"> 
+<span 
+class="cmmi-12x-x-120">π </span><span 
+class="cmr-12x-x-120">= </span></text> 
+</g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00237,0.00237,1.0,0.0025,8.02733)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.9998,-0.02644,0.02644,0.9998,5.02628,8.01456)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.38855,0)" text-anchor="middle"  font-size="10"> 
+,</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99287,-0.1205,0.1205,0.99287,7.90398,7.99571)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.89938,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.725,-0.69038,0.69038,0.725,12.42789,7.42548)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.04948,-0.9992,0.9992,0.04948,14.73444,4.45255)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.89938,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00072,-1.0,1.0,-0.00072,14.86601,0.60025)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.01445,-0.99995,0.99995,-0.01445,14.87189,-4.4132)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0756,-0.99754,0.99754,-0.0756,14.83218,-9.47551)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.36911,-0.93166,0.93166,-0.36911,14.58818,-14.83144)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.96542,-0.26558,0.26558,-0.96542,11.81345,-20.25868)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9998,-0.02379,0.02379,-0.9998,6.69788,-21.42915)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00006,-0.00006,-1.0,1.67189,-21.5182)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00378,-0.00378,-1.0,-3.33086,-21.5185)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99995,0.0167,-0.0167,-0.99995,-6.67754,-21.51558)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9982,0.06009,-0.06009,-0.9982,-11.72163,-21.44916)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.98242,0.19324,-0.19324,-0.98242,-16.85799,-21.1974)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.78468,0.62209,-0.62209,-0.78468,-22.37114,-20.21216)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.24715,0.97014,-0.97014,-0.24715,-26.5608,-16.32126)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.05347,0.99875,-0.99875,-0.05347,-27.71606,-11.24817)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00615,1.0,-1.0,-0.00615,-27.95624,-6.20622)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00012,1.0,-1.0,0.00012,-27.97896,-1.20482)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00426,1.0,-1.0,0.00426,-27.98105,3.79895)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.01785,0.99995,-0.99995,0.01785,-27.96509,8.81169)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.04356,0.9992,-0.9992,0.04356,-27.87064,13.83687)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.09688,0.99597,-0.99597,0.09688,-27.75797,17.22318)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.25012,0.97014,-0.97014,0.25012,-27.31047,22.3708)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.62668,0.78085,-0.78085,0.62668,-25.98186,27.7254)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.94386,0.33575,-0.33575,0.94386,-22.24802,31.92592)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.994,0.10942,-0.10942,0.994,-17.26222,33.55591)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99956,0.03137,-0.03137,0.99956,-12.20912,34.07495)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.00528,-0.00528,1.0,-7.18513,34.2196)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,-2.18727,34.24054)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00208,0.00208,1.0,2.81462,34.24222)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00963,0.00963,1.0,7.82239,34.23474)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.9998,-0.02315,0.02315,0.9998,12.83559,34.18365)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.9992,-0.04831,0.04831,0.9992,16.19449,34.12155)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99504,-0.10826,0.10826,0.99504,21.25052,33.8946)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.97238,-0.24068,0.24068,0.97238,26.36726,33.37648)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.8499,-0.53073,0.53073,0.8499,31.58902,32.136)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.495,-0.8725,0.8725,0.495,36.23894,29.06293)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.20653,-0.97865,0.97865,0.20653,38.72968,24.34572)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.08151,-0.99681,0.99681,0.08151,39.73517,19.31554)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.02892,-0.9998,0.9998,0.02892,40.12721,14.27692)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.0073,-1.0,1.0,0.0073,40.26358,9.2559)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00037,-1.0,1.0,0.00037,40.29587,4.24843)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00027,-1.0,1.0,-0.00027,40.29721,-0.73862)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00252,-1.0,1.0,-0.00252,40.29805,-4.07579)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00937,-1.0,1.0,-0.00937,40.28773,-9.08328)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0236,-0.9998,0.9998,-0.0236,40.2446,-14.09674)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.05083,-0.99875,0.99875,-0.05083,40.13258,-19.1237)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.1026,-0.99503,0.99503,-0.1026,39.8887,-24.17033)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.20506,-0.98058,0.98058,-0.20506,39.39172,-29.25241)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.41112,-0.91193,0.91193,-0.41112,38.35669,-34.3953)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.73227,-0.68265,0.68265,-0.73227,36.08836,-39.36183)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.93478,-0.36072,0.36072,-0.93478,32.02356,-42.9439)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.98586,-0.1676,0.1676,-0.98586,27.1282,-44.73958)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99681,-0.08693,0.08693,-0.99681,22.11046,-45.53757)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9992,-0.04312,0.04312,-0.9992,18.74504,-45.83882)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99995,-0.01607,0.01607,-0.99995,13.7227,-46.04695)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00398,0.00398,-1.0,8.71034,-46.12297)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.0001,0.0001,-1.0,3.70653,-46.14041)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00058,-0.00058,-1.0,-1.27716,-46.1414)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00377,-0.00377,-1.0,-6.28255,-46.13972)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99995,0.011,-0.011,-0.99995,-11.29005,-46.1228)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9998,0.02461,-0.02461,-0.9998,-16.30396,-46.07085)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9992,0.0488,-0.0488,-0.9992,-21.32661,-45.95277)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99597,0.09148,-0.09148,-0.99597,-26.36548,-45.71567)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.98894,0.15251,-0.15251,-0.98894,-31.40518,-45.23657)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.96782,0.25502,-0.25502,-0.96782,-34.81744,-44.76912)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.88358,0.46901,-0.46901,-0.88358,-39.90962,-43.45898)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.65921,0.75818,-0.75818,-0.65921,-44.67459,-40.89352)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.37245,0.92847,-0.92847,-0.37245,-48.10686,-36.75647)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.1917,0.98242,-0.98242,-0.1917,-49.97588,-31.90756)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.09683,0.99597,-0.99597,-0.09683,-50.92166,-26.89696)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.04706,0.9992,-0.9992,-0.04706,-51.39598,-21.867)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.02069,0.9998,-0.9998,-0.02069,-51.62494,-16.8448)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00722,1.0,-1.0,-0.00722,-51.72466,-11.8317)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0013,1.0,-1.0,-0.0013,-51.75839,-6.82626)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.0,1.0,-1.0,0.0,-51.76346,-1.82309)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00053,1.0,-1.0,0.00053,-51.76405,1.48766)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00322,1.0,-1.0,0.00322,-51.76236,6.49063)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00905,1.0,-1.0,0.00905,-51.74771,11.49878)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.01964,0.99995,-0.99995,0.01964,-51.70471,16.50935)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.0376,0.99956,-0.99956,0.0376,-51.60986,21.52597)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.06758,0.9982,-0.9982,0.06758,-51.42683,26.55296)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.11813,0.994,-0.994,0.11813,-51.09608,31.59387)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.20573,0.98058,-0.98058,0.20573,-50.51346,36.65125)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.35907,0.93478,-0.93478,0.35907,-49.4761,41.72067)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.60057,0.80383,-0.80383,0.60057,-47.58672,46.67778)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.80385,0.5981,-0.5981,0.80385,-44.28174,50.82721)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.92525,0.38751,-0.38751,0.92525,-41.41896,53.00978)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.97865,0.21452,-0.21452,0.97865,-36.60445,54.95818)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.994,0.11716,-0.11716,0.994,-31.61278,56.02118)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.9982,0.0627,-0.0627,0.9982,-26.58821,56.59813)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99956,0.03178,-0.03178,0.99956,-21.56548,56.90585)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99995,0.01433,-0.01433,0.99995,-16.55095,57.06102)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.00502,-0.00502,1.0,-11.54002,57.1302)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.00084,-0.00084,1.0,-6.53398,57.15372)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,-1.56123,57.15695)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00108,0.00108,1.0,3.44232,57.15756)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.0035,0.0035,1.0,8.4455,57.15164)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00781,0.00781,1.0,11.78416,57.14252)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99995,-0.01643,0.01643,0.99995,16.79507,57.10513)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99956,-0.03064,0.03064,0.99956,21.80876,57.02525)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99875,-0.05334,0.05334,0.99875,26.83054,56.87549)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99597,-0.0897,0.0897,0.99597,31.86278,56.61299)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.98894,-0.14894,0.14894,0.98894,36.90576,56.1695)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.97014,-0.24791,0.24791,0.97014,41.95523,55.4278)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.91193,-0.41072,0.41072,0.91193,46.9894,54.1628)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.76949,-0.6426,0.6426,0.76949,51.82242,51.98825)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.53363,-0.84608,0.84608,0.53363,55.88528,48.50572)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.35342,-0.93787,0.93787,0.35342,58.55162,44.037)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.22557,-0.97455,0.97455,0.22557,59.79974,40.79027)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.13072,-0.99165,0.99165,0.13072,60.92375,35.8147)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.07486,-0.99754,0.99754,0.07486,61.5712,30.79843)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.0414,-0.9992,0.9992,0.0414,61.94017,25.77676)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.02133,-0.9998,0.9998,0.02133,62.14355,20.76038)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00958,-1.0,1.0,0.00958,62.2478,15.74826)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.0032,-1.0,1.0,0.0032,62.29399,10.7394)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00043,-1.0,1.0,0.00043,62.30885,5.73627)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00005,-1.0,1.0,-0.00005,62.31042,0.78076)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0012,-1.0,1.0,-0.0012,62.31073,-4.22272)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00352,-1.0,1.0,-0.00352,62.30418,-9.22687)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00746,-1.0,1.0,-0.00746,62.2947,-12.56624)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0151,-0.99995,0.99995,-0.0151,62.2588,-17.57443)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.02728,-0.9998,0.9998,-0.02728,62.18521,-22.5869)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.04617,-0.9992,0.9992,-0.04617,62.0515,-27.60422)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0753,-0.99754,0.99754,-0.0753,61.8242,-32.629)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.12067,-0.99287,0.99287,-0.12067,61.45161,-37.66216)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.19298,-0.98242,0.98242,-0.19298,60.85234,-42.70091)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.30923,-0.95242,0.95242,-0.30923,59.88158,-47.73569)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.48885,-0.8762,0.8762,-0.48885,58.2914,-52.69617)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.70898,-0.71065,0.71065,-0.70898,55.69247,-57.32306)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.8537,-0.52354,0.52354,-0.8537,51.88617,-60.93918)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.93478,-0.35725,0.35725,-0.93478,48.89157,-62.81815)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.97664,-0.21832,0.21832,-0.97664,44.06535,-64.61858)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99165,-0.13242,0.13242,-0.99165,39.0932,-65.70718)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99756,-0.0796,0.0796,-0.99756,34.0827,-66.36441)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9992,-0.04662,0.04662,-0.9992,29.0638,-66.75758)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9998,-0.02592,0.02592,-0.9998,24.04625,-66.98734)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99995,-0.01312,0.01312,-0.99995,19.0351,-67.11458)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00555,0.00555,-1.0,14.02617,-67.17859)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00156,0.00156,-1.0,9.02165,-67.20523)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00006,0.00006,-1.0,4.01907,-67.21223)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00012,-0.00012,-1.0,-0.94116,-67.21248)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00107,-0.00107,-1.0,-4.27866,-67.21269)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00365,-0.00365,-1.0,-9.28293,-67.20805)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00829,-0.00829,-1.0,-14.28784,-67.19077)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99995,0.01582,-0.01582,-0.99995,-19.29785,-67.15053)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9998,0.02745,-0.02745,-0.9998,-24.3088,-67.07315)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9992,0.04494,-0.04494,-0.9992,-29.32513,-66.9381)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99756,0.07115,-0.07115,-0.99756,-34.34769,-66.7161)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.994,0.11076,-0.11076,-0.994,-39.37798,-66.36346)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.98586,0.17165,-0.17165,-0.98586,-44.41122,-65.81259)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.96542,0.26654,-0.26654,-0.96542,-49.43753,-64.9527)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.92525,0.38354,-0.38354,-0.92525,-54.3696,-63.5466)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.84608,0.54044,-0.54044,-0.84608,-57.6522,-62.27144)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.67429,0.74329,-0.74329,-0.67429,-62.10262,-59.40057)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.4671,0.8872,-0.8872,-0.4671,-65.60464,-55.45413)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.30003,0.95515,-0.95515,-0.30003,-67.9799,-50.8342)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.18921,0.98242,-0.98242,-0.18921,-69.486,-45.93942)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.119,0.994,-0.994,-0.119,-70.42978,-40.95737)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.07402,0.99754,-0.99754,-0.07402,-71.01985,-35.94377)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.04497,0.9992,-0.9992,-0.04497,-71.38652,-30.92642)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.02611,0.9998,-0.9998,-0.02611,-71.60872,-25.91013)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.01399,0.99995,-0.99995,-0.01399,-71.7373,-20.89835)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00752,1.0,-1.0,-0.00752,-71.80376,-15.89287)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00339,1.0,-1.0,-0.00339,-71.82993,-12.55194)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00076,1.0,-1.0,-0.00076,-71.84601,-7.54901)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.0,1.0,-1.0,0.0,-71.84917,-2.54784)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00047,1.0,-1.0,0.00047,-71.84956,2.40291)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00218,1.0,-1.0,0.00218,-71.84773,7.40569)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00548,1.0,-1.0,0.00548,-71.83751,12.41101)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.01094,0.99995,-0.99995,0.01094,-71.81094,17.42047)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.01936,0.99995,-0.99995,0.01936,-71.7575,22.42763)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.0319,0.99956,-0.99956,0.0319,-71.66212,27.44168)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.05025,0.99875,-0.99875,0.05025,-71.50453,32.45897)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.07195,0.99754,-0.99754,0.07195,-71.24527,37.47572)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.10187,0.99503,-0.99503,0.10187,-71.0187,40.83212)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.15395,0.98894,-0.98894,0.15395,-70.51245,45.858)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.23291,0.97455,-0.97455,0.23291,-69.74316,50.8814)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.35176,0.93787,-0.93787,0.35176,-68.56384,55.87793)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.52092,0.85748,-0.85748,0.52092,-66.74957,60.7514)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.71422,0.70601,-0.70601,0.71422,-64.00212,65.247)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.86127,0.50963,-0.50963,0.86127,-60.21445,68.91777)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.94089,0.3407,-0.3407,0.94089,-55.71712,71.52382)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.97664,0.22226,-0.22226,0.97664,-50.88766,73.24138)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99034,0.14404,-0.14404,0.99034,-45.92638,74.35143)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99504,0.1,-0.1,0.99504,-40.9281,75.0526)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.9982,0.06892,-0.06892,0.9982,-37.58015,75.39856)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.9992,0.04312,-0.04312,0.9992,-32.56294,75.73999)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.9998,0.0259,-0.0259,0.9998,-27.54755,75.9535)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99995,0.01451,-0.01451,0.99995,-22.53802,76.08128)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.00723,-0.00723,1.0,-17.52802,76.15263)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.00288,-0.00288,1.0,-12.51985,76.18782)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.00064,-0.00064,1.0,-7.51717,76.20152)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,-2.51231,76.20418)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00043,0.00043,1.0,2.42752,76.20451)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00197,0.00197,1.0,7.43282,76.20285)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.0043,0.0043,1.0,12.43607,76.19235)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00789,0.00789,1.0,15.77458,76.17993)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99995,-0.01427,0.01427,0.99995,20.78082,76.14137)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.9998,-0.02377,0.02377,0.9998,25.7912,76.07121)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99956,-0.03749,0.03749,0.99956,30.80516,75.954)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99875,-0.0572,0.0572,0.99875,35.82144,75.76862)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99681,-0.08557,0.08557,0.99681,40.84393,75.4849)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99287,-0.12679,0.12679,0.99287,45.86777,75.05981)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.98242,-0.18723,0.18723,0.98242,50.89395,74.42542)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.96297,-0.2777,0.2777,0.96297,55.89859,73.48592)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.91531,-0.409,0.409,0.91531,60.84926,72.07274)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.83844,-0.5518,0.5518,0.83844,65.5398,69.90646)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.71422,-0.70345,0.70345,0.71422,68.54344,68.0111)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.53082,-0.8499,0.8499,0.53082,72.25899,64.29286)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.36467,-0.93166,0.93166,0.36467,74.97523,59.85788)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.24393,-0.97014,0.97014,0.24393,76.81796,55.0669)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.16234,-0.98744,0.98744,0.16234,78.04088,50.1306)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.10771,-0.99503,0.99503,0.10771,78.85074,45.13939)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.07076,-0.99754,0.99754,0.07076,79.38591,40.12694)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.04565,-0.9992,0.9992,0.04565,79.73743,35.11507)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.02847,-0.9998,0.9998,0.02847,79.96373,30.10074)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.01678,-0.99995,0.99995,0.01678,80.10446,25.08998)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.01012,-0.99995,0.99995,0.01012,80.18492,20.08255)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00551,-1.0,1.0,0.00551,80.22006,16.74483)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00209,-1.0,1.0,0.00209,80.24689,11.74101)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00038,-1.0,1.0,0.00038,80.25679,6.73796)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.0,-1.0,1.0,0.0,80.25829,1.79485)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00053,-1.0,1.0,-0.00053,80.2586,-3.2077)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0021,-1.0,1.0,-0.0021,80.25632,-8.21243)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.005,-1.0,1.0,-0.005,80.24635,-13.21596)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00963,-1.0,1.0,-0.00963,80.22209,-18.22379)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.01651,-0.99995,0.99995,-0.01651,80.17488,-23.23216)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.02647,-0.9998,0.9998,-0.02647,80.0935,-28.24266)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0379,-0.99956,0.99956,-0.0379,79.95715,-33.25365)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.05313,-0.99875,0.99875,-0.05313,79.83774,-36.601)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.07834,-0.99754,0.99754,-0.07834,79.57442,-41.62138)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.11415,-0.994,0.994,-0.11415,79.18446,-46.64551)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.1659,-0.98744,0.98744,-0.1659,78.61554,-51.66634)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.24117,-0.97238,0.97238,-0.24117,77.78458,-56.67508)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.34981,-0.93787,0.93787,-0.34981,76.56216,-61.6501)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.49971,-0.86877,0.86877,-0.49971,74.76389,-66.5023)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.675,-0.74329,0.74329,-0.675,72.15129,-71.03389)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.82307,-0.57007,0.57007,-0.82307,68.59196,-74.89783)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.91531,-0.4043,0.4043,-0.91531,64.29019,-77.82587)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.95782,-0.29593,0.29593,-0.95782,59.58469,-79.83241)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.97865,-0.21451,0.21451,-0.97865,56.3229,-80.86255)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99034,-0.14548,0.14548,-0.99034,51.3627,-81.93465)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99597,-0.09842,0.09842,-0.99597,46.36664,-82.65982)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9982,-0.06593,0.06593,-0.9982,41.35439,-83.14919)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9992,-0.04333,0.04333,-0.9992,36.33974,-83.47658)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9998,-0.0276,0.0276,-0.9998,31.32631,-83.69162)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99995,-0.0167,0.0167,-0.99995,26.31537,-83.82823)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00932,0.00932,-1.0,21.30643,-83.91063)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00452,0.00452,-1.0,16.29898,-83.95644)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00166,0.00166,-1.0,11.29356,-83.97841)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00041,0.00041,-1.0,6.29028,-83.98595)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.0,0.0,-1.0,2.95561,-83.98726)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00029,-0.00029,-1.0,-1.97542,-83.98752)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00148,-0.00148,-1.0,-6.97629,-83.9864)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.0038,-0.0038,-1.0,-11.98068,-83.97942)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00758,-0.00758,-1.0,-16.98499,-83.96101)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99995,0.01324,-0.01324,-0.99995,-21.9947,-83.92378)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9998,0.02142,-0.02142,-0.9998,-27.00594,-83.85846)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99956,0.03293,-0.03293,-0.99956,-32.01704,-83.75264)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9992,0.04897,-0.04897,-0.9992,-37.03163,-83.58977)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99756,0.07132,-0.07132,-0.99756,-42.05188,-83.34622)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99597,0.0967,-0.0967,-0.99597,-47.06544,-82.9799)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99165,0.13042,-0.13042,-0.99165,-50.42288,-82.67053)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.98418,0.18687,-0.18687,-0.98418,-55.43677,-82.01993)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.96542,0.26764,-0.26764,-0.96542,-60.43639,-81.08054)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.92525,0.3817,-0.3817,-0.92525,-65.3845,-79.7192)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.8499,0.53413,-0.53413,-0.8499,-70.17377,-77.75456)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.71779,0.70076,-0.70076,-0.71779,-74.59814,-74.9601)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.55121,0.83844,-0.83844,-0.55121,-78.32028,-71.2808)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.39488,0.92198,-0.92198,-0.39488,-81.13971,-66.92476)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.27441,0.96297,-0.96297,-0.27441,-83.13562,-62.18979)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.18954,0.98242,-0.98242,-0.18954,-84.51305,-57.2888)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.13914,0.99034,-0.99034,-0.13914,-85.44232,-52.32129)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.10196,0.99503,-0.99503,-0.10196,-85.92264,-48.98273)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0697,0.9982,-0.9982,-0.0697,-86.43098,-43.97429)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.04688,0.9992,-0.9992,-0.04688,-86.7772,-38.96182)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.03072,0.99956,-0.99956,-0.03072,-87.00966,-33.94987)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.01929,0.99995,-0.99995,-0.01929,-87.16217,-28.93665)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.01135,0.99995,-0.99995,-0.01135,-87.25757,-23.92737)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00603,1.0,-1.0,-0.00603,-87.31358,-18.92009)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00264,1.0,-1.0,-0.00264,-87.34312,-13.9162)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00075,1.0,-1.0,-0.00075,-87.35588,-8.91454)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00002,1.0,-1.0,-0.00002,-87.3593,-3.91205)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00008,1.0,-1.0,0.00008,-87.35938,1.00963)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00069,1.0,-1.0,0.00069,-87.3595,4.34802)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00226,1.0,-1.0,0.00226,-87.35638,9.35173)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.005,1.0,-1.0,0.005,-87.3455,14.35672)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00928,1.0,-1.0,0.00928,-87.32109,19.36046)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.01546,0.99995,-0.99995,0.01546,-87.27545,24.36963)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.02422,0.9998,-0.9998,0.02422,-87.19904,29.3814)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.03635,0.99956,-0.99956,0.03635,-87.07924,34.39243)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.05307,0.99875,-0.99875,0.05307,-86.89879,39.40668)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.07616,0.99754,-0.99754,0.07616,-86.63528,44.42305)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.10818,0.99503,-0.99503,0.10818,-86.25652,49.44109)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.14442,0.99034,-0.99034,0.14442,-85.69955,54.44943)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.19278,0.98242,-0.98242,0.19278,-85.23569,57.80074)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.2726,0.96297,-0.96297,0.2726,-84.26483,62.7936)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.38467,0.92525,-0.92525,0.38467,-82.88087,67.72583)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.53036,0.8499,-0.8499,0.53036,-80.89928,72.50772)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.69157,0.72499,-0.72499,0.69157,-78.12627,76.93257)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.82692,0.56519,-0.56519,0.82692,-74.4959,80.69394)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.91193,0.41168,-0.41168,0.91193,-70.19182,83.59145)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.95782,0.2913,-0.2913,0.95782,-65.50212,85.6795)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.98058,0.20444,-0.20444,0.98058,-60.62566,87.14473)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99034,0.14304,-0.14304,0.99034,-55.66234,88.16692)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99504,0.10612,-0.10612,0.99504,-50.67168,88.86768)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99756,0.07838,-0.07838,0.99756,-47.32796,89.23282)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99875,0.05386,-0.05386,0.99875,-42.31633,89.62253)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99956,0.03627,-0.03627,0.99956,-37.30348,89.89038)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.9998,0.02365,-0.02365,0.9998,-32.29276,90.07033)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99995,0.01468,-0.01468,0.99995,-27.28545,90.18759)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.00847,-0.00847,1.0,-22.27762,90.26018)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.00429,-0.00429,1.0,-17.27338,90.30183)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.0017,-0.0017,1.0,-12.26761,90.32281)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.00035,-0.00035,1.0,-7.26387,90.33096)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,-2.34393,90.33243)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00023,0.00023,1.0,2.6577,90.33243)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00102,0.00102,1.0,5.99153,90.33209)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00287,0.00287,1.0,10.99727,90.32733)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(1.0,-0.00587,0.00587,1.0,16.00266,90.31346)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99995,-0.01039,0.01039,0.99995,21.00981,90.2846)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99995,-0.01688,0.01688,0.99995,26.01604,90.23341)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.9998,-0.0259,0.0259,0.9998,31.02722,90.14989)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99956,-0.03828,0.03828,0.99956,36.03828,90.0216)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99875,-0.05522,0.05522,0.99875,41.0525,89.83145)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99756,-0.07838,0.07838,0.99756,46.06879,89.55714)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.994,-0.11015,0.11015,0.994,51.09032,89.16568)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.99034,-0.14601,0.14601,0.99034,56.09338,88.59993)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.98242,-0.19333,0.19333,0.98242,59.4434,88.13013)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.96297,-0.27055,0.27055,0.96297,64.4354,87.15529)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.92848,-0.37865,0.37865,0.92848,69.36266,85.78409)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.8575,-0.51797,0.51797,0.8575,74.15218,83.83665)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.73961,-0.67354,0.67354,0.73961,78.61075,81.13193)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.58829,-0.81152,0.81152,0.58829,82.45084,77.60202)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.43607,-0.90152,0.90152,0.43607,85.46985,73.37881)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.31314,-0.95242,0.95242,0.31314,87.68358,68.74355)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.2221,-0.97664,0.97664,0.2221,89.25838,63.89232)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.15742,-0.98894,0.98894,0.15742,90.37064,58.94786)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.11801,-0.994,0.994,0.11801,91.14203,53.96439)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.0882,-0.99681,0.99681,0.0882,91.54753,50.62419)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.06166,-0.9982,0.9982,0.06166,91.98628,45.61424)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.04245,-0.9992,0.9992,0.04245,92.29312,40.60382)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.0285,-0.9998,0.9998,0.0285,92.50432,35.59094)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.01842,-0.99995,0.99995,0.01842,92.64572,30.58118)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.01123,-0.99995,0.99995,0.01123,92.73692,25.57146)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00627,-1.0,1.0,0.00627,92.79243,20.5666)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.003,-1.0,1.0,0.003,92.82323,15.56111)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00104,-1.0,1.0,0.00104,92.83781,10.55873)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.00012,-1.0,1.0,0.00012,92.84271,5.55547)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(0.0,-1.0,1.0,0.0,92.84312,0.63548)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00034,-1.0,1.0,-0.00034,92.84335,-2.70346)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0015,-1.0,1.0,-0.0015,92.84195,-7.7072)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0036,-1.0,1.0,-0.0036,92.83485,-12.7146)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00694,-1.0,1.0,-0.00694,92.81735,-17.72032)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.01183,-0.99995,0.99995,-0.01183,92.7832,-22.72697)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.01872,-0.99995,0.99995,-0.01872,92.72481,-27.7357)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.02824,-0.9998,0.9998,-0.02824,92.6321,-32.7462)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0412,-0.9992,0.9992,-0.0412,92.49167,-37.76126)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.05882,-0.99875,0.99875,-0.05882,92.28732,-42.77603)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.08267,-0.99681,0.99681,-0.08267,91.99437,-47.79242)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.10924,-0.99503,0.99503,-0.10924,91.57063,-52.8017)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.14378,-0.99034,0.99034,-0.14378,91.2196,-56.1541)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.19987,-0.98058,0.98058,-0.19987,90.49904,-61.1619)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.2784,-0.96297,0.96297,-0.2784,89.49452,-66.14175)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.38553,-0.92525,0.92525,-0.38553,88.08133,-71.06433)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.52261,-0.8537,0.8537,-0.52261,86.09686,-75.83714)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.67632,-0.7396,0.7396,-0.67632,83.37332,-80.27351)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.81154,-0.59177,0.59177,-0.81154,79.84062,-84.10428)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.898,-0.44122,0.44122,-0.898,75.62402,-87.13446)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.94963,-0.32004,0.32004,-0.94963,71.00577,-89.37639)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.97455,-0.22906,0.22906,-0.97455,66.16563,-90.98746)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.98586,-0.17328,0.17328,-0.98586,61.23375,-92.11472)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99165,-0.1309,0.1309,-0.99165,57.90744,-92.71155)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99597,-0.09335,0.09335,-0.99597,52.91058,-93.36539)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9982,-0.06609,0.06609,-0.9982,47.90262,-93.8309)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9992,-0.04616,0.04616,-0.9992,42.89311,-94.15973)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99956,-0.03156,0.03156,-0.99956,37.88347,-94.38899)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9998,-0.02087,0.02087,-0.9998,32.87376,-94.54573)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99995,-0.01317,0.01317,-0.99995,27.86533,-94.64937)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00774,0.00774,-1.0,22.85841,-94.71454)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00403,0.00403,-1.0,17.85056,-94.75264)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00166,0.00166,-1.0,12.84505,-94.77234)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00055,0.00055,-1.0,7.84196,-94.78004)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,-0.00003,0.00003,-1.0,4.5068,-94.78197)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+7</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00009,-0.00009,-1.0,-0.40112,-94.7822)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00084,-0.00084,-1.0,-5.40701,-94.78197)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00244,-0.00244,-1.0,-10.41397,-94.77803)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00516,-0.00516,-1.0,-15.41887,-94.76624)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-1.0,0.00922,-0.00922,-1.0,-20.42685,-94.74103)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+9</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99995,0.01498,-0.01498,-0.99995,-25.43532,-94.69557)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9998,0.02304,-0.02304,-0.9998,-30.44435,-94.62141)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99956,0.03401,-0.03401,-0.99956,-35.4578,-94.5072)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9992,0.04886,-0.04886,-0.9992,-40.4692,-94.33867)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.9982,0.06512,-0.06512,-0.9982,-45.48293,-94.08783)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99681,0.08615,-0.08615,-0.99681,-48.83319,-93.8798)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.99287,0.1196,-0.1196,-0.99287,-53.85179,-93.44934)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.98744,0.16583,-0.16583,-0.98744,-58.86034,-92.85255)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.97455,0.22964,-0.22964,-0.97455,-63.85919,-92.02023)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.94963,0.31783,-0.31783,-0.94963,-68.82204,-90.86003)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.90152,0.43587,-0.43587,-0.90152,-73.6944,-89.23828)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.81538,0.58005,-0.58005,-0.81538,-78.36063,-86.98277)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.6879,0.72862,-0.72862,-0.6879,-82.59694,-83.95364)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.53734,0.84608,-0.84608,-0.53734,-86.14963,-80.14977)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.398,0.91866,-0.91866,-0.398,-88.89444,-75.7702)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.30507,0.95515,-0.95515,-0.30507,-90.87201,-71.06969)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.23203,0.97455,-0.97455,-0.23203,-91.92963,-67.8256)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.16704,0.98744,-0.98744,-0.16704,-93.09236,-62.89162)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.12006,0.99287,-0.99287,-0.12006,-93.92627,-57.90796)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+8</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.0861,0.99681,-0.99681,-0.0861,-94.52625,-52.90732)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.06122,0.9982,-0.9982,-0.06122,-94.95522,-47.89682)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+0</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.04297,0.9992,-0.9992,-0.04297,-95.26009,-42.88776)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.02948,0.9998,-0.9998,-0.02948,-95.47392,-37.87685)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.01956,0.99995,-0.99995,-0.01956,-95.62032,-32.8675)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+6</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.01236,0.99995,-0.99995,-0.01236,-95.71736,-27.85838)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00728,1.0,-1.0,-0.00728,-95.7786,-22.85081)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00427,1.0,-1.0,-0.00427,-95.81349,-17.84601)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.66626,0)" text-anchor="middle"  font-size="10"> 
+</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00218,1.0,-1.0,-0.00218,-95.82841,-14.50645)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.49939,0)" text-anchor="middle"  font-size="10"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00093,1.0,-1.0,-0.00093,-95.83853,-9.50204)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.38855,0)" text-anchor="middle"  font-size="10"> 
+.</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00037,1.0,-1.0,-0.00037,-95.8411,-6.71953)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.38855,0)" text-anchor="middle"  font-size="10"> 
+.</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g transform="matrix(-0.00006,1.0,-1.0,-0.00006,-95.84213,-3.93665)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.38855,0)" text-anchor="middle"  font-size="10"> 
+.</text> 
+</g>
+ </g>
+ </g>
+ <g>
+ <g fill="rgb(80.0003%,80.0003%,100.0%)">
+ <g stroke="rgb(0.0%,0.0%,100.0%)">
+ <g stroke-width="0.8pt">
+ <path d=" M  0.0 7.02332  " />
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ 
+                                                                 </g> 
+</svg> 

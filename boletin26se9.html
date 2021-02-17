@@ -1,0 +1,220 @@
+<!DOCTYPE html> 
+<html> 
+<head><title>¿Cómo está hecho el cuadrado de la portada con la espiral de π?</title> 
+<meta charset="UTF-8" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)" /> 
+<link rel="stylesheet" type="text/css" href="boletin26.css" /> 
+<script type="text/javascript" 
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" 
+></script> 
+<style type="text/css"> 
+.MathJax_MathML {text-indent: 0;} 
+</style> 
+</head><body 
+>
+   <!--l. 1--><div class="crosslinks"><p class="noindent">[<a 
+href="#tail">tail</a>] [<a 
+href="# "  >up</a>] </p></div>
+   <h3 class="sectionHead"><span class="titlemark">9   </span> <a 
+ id="x14-550009"></a>¿Cómo está hecho el cuadrado de la portada con la espiral de <span 
+class="cmmi-10">π</span>?</h3>
+<div class="center" 
+>
+<!--l. 2--><p class="noindent" >
+</p><!--l. 3--><p class="noindent" ><span 
+class="ecbx-1200">Francisco Orteg</span><span 
+class="ecbx-1200">ó</span><span 
+class="ecbx-1200">n Gallego</span><br />
+<span 
+class="ecrm-1200">Universidad de C</span><span 
+class="ecrm-1200">á</span><span 
+class="ecrm-1200">diz</span><br />
+_______________</p></div>
+   <div class="wrapfig-l">
+<object data="boletin26-1.svg" width="289.85355 " height="289.85355 " type="image/svg+xml"><p>SVG-Viewer needed.</p></object> </div>
+<!--l. 43--><p class="noindent" ><span 
+class="ecrm-1200">El pr</span><span 
+class="ecrm-1200">ó</span><span 
+class="ecrm-1200">ximo mes de marzo ha sido considerado </span>«<span 
+class="ecrm-1200">Mes de las Matem</span><span 
+class="ecrm-1200">á</span><span 
+class="ecrm-1200">ticas</span>»
+<span 
+class="ecrm-1200">por distintos organismos de diez comunidades aut</span><span 
+class="ecrm-1200">ó</span><span 
+class="ecrm-1200">nomas de la geograf</span><span 
+class="ecrm-1200">í</span><span 
+class="ecrm-1200">a</span>
+<span 
+class="ecrm-1200">nacional. Esta celebraci</span><span 
+class="ecrm-1200">ó</span><span 
+class="ecrm-1200">n est</span><span 
+class="ecrm-1200">á</span> <span 
+class="ecrm-1200">vinculada particularmente a la celebraci</span><span 
+class="ecrm-1200">ó</span><span 
+class="ecrm-1200">n del</span>
+«<span 
+class="ecrm-1200">D</span><span 
+class="ecrm-1200">í</span><span 
+class="ecrm-1200">a de </span><span 
+class="cmmi-12">π</span>»
+<span 
+class="ecrm-1200">, el catorce de marzo, fecha elegida por la Uni</span><span 
+class="ecrm-1200">ó</span><span 
+class="ecrm-1200">n Matem</span><span 
+class="ecrm-1200">á</span><span 
+class="ecrm-1200">tica Internacional</span>
+<span 
+class="ecrm-1200">(IMU). Por este motivo, pens</span><span 
+class="ecrm-1200">é</span> <span 
+class="ecrm-1200">en una portada dedicada a </span><span 
+class="cmmi-12">π</span><span 
+class="ecrm-1200">: sobre una espiral</span>
+<span 
+class="ecrm-1200">divergente reposa su representaci</span><span 
+class="ecrm-1200">ó</span><span 
+class="ecrm-1200">n decimal, hasta la cifra que ocupa el lugar</span>
+<span 
+class="ecrm-1200">381.</span>
+</p><!--l. 48--><p class="indent" >   <span 
+class="ecrm-1200">Para dise</span><span 
+class="ecrm-1200">ñ</span><span 
+class="ecrm-1200">ar el cuadrado de la portada, desde </span><span class="LATEX"><span 
+class="ecrm-1200">L</span><span class="A"><span 
+class="ecrm-1200">A</span></span><span class="TEX"><span 
+class="ecrm-1200">T</span><span 
+class="E"><span 
+class="ecrm-1200">E</span></span><span 
+class="ecrm-1200">X</span></span></span><span 
+class="ecrm-1200"> he a</span><span 
+class="ecrm-1200">ñ</span><span 
+class="ecrm-1200">adido el</span>
+<span 
+class="ecrm-1200">paquete </span><a 
+href="https://pgf-tikz.github.io/pgf/pgfmanual.pdf" ><span 
+class="ectt-1200">tikz</span></a><span 
+class="ecrm-1200">, es decir</span>
+                                                                          
+
+                                                                          
+</p>
+   <div class="verbatim" id="verbatim-1">
+\usepackage{tikz}
+</div>
+<!--l. 54--><p class="nopar" >
+</p><!--l. 57--><p class="noindent" ><span 
+class="ecrm-1200">seguida de una orden que incluya las bibliotecas de </span><span 
+class="ectt-1200">tikz </span><span 
+class="ecrm-1200">necesarias en este caso</span>
+<span 
+class="ecrm-1200">(las que permiten construir curvas y elementos decorativos que se apoyan sobre</span>
+<span 
+class="ecrm-1200">esas curvas):</span>
+                                                                          
+
+                                                                          
+</p>
+   <div class="verbatim" id="verbatim-2">
+\usetikzlibrary{datavisualization.formats.functions,decorations.text}
+</div>
+<!--l. 62--><p class="nopar" >
+</p><!--l. 65--><p class="indent" >   <span 
+class="ecrm-1200">Las l</span><span 
+class="ecrm-1200">í</span><span 
+class="ecrm-1200">neas de programaci</span><span 
+class="ecrm-1200">ó</span><span 
+class="ecrm-1200">n para el cuadrado son estas:</span>
+                                                                          
+
+                                                                          
+</p>
+   <div class="verbatim" id="verbatim-3">
+\begin{tikzpicture}
+ <br />\shadedraw[inner color=yellow,outer color=yellow!10!gray,draw=yellow]
+ <br />           (-3.8,-3.8) rectangle (3.8,3.8);
+ <br />\node at (-0.4,0.375) {\color{blue}{\Large$\pi=\mbox{}$}};
+ <br />\fill [decorate,decoration={text along path,raise=1pt,
+ <br />text={3,|\hspace{-1.2pt}|1|\hspace{-2pt}|4|\hspace{-1.2pt}|1|\hspace{0pt}|
+ <br /> 5926535 8979323846 2643383279 5028841971 6939937510 5820974944 5923078164
+ <br />         0628620899 8628034825 3421170679 8214808651 3282306647 0938446095
+ <br />         5058223172 5359408128 4811174502 8410270193 8521105559 6446229489
+ <br />         5493038196 4428810975 6659334461 2847564823 3786783165 2712019091
+ <br />         4564856692 3460348610 4543266482 1339360726 0249141273 7245870066
+ <br />         0631558817 4881520920 9628292540 9171536436 7892590360 0113305305
+ <br />         4882046652 1...}, text color=red}, decorate]
+ <br />[fill=blue!20,draw=blue,thick]
+ <br />(0,0.246848) .. controls  (0.487283,0.246848) ..
+ <br />(0.487283,0) .. controls  (0.487283,-0.721129) ..
+ <br />(0,-0.721129) .. controls  (-0.948194,-0.721129) ..
+ <br />(-0.948194,0) .. controls  (-0.948194,1.16827) ..
+ <br />(0,1.16827) .. controls  (1.38113,1.16827) ..
+ <br />(1.38113,0) .. controls  (1.38113,-1.58651) ..
+ <br />(0,-1.58651) .. controls  (-1.78414,-1.58651) ..
+ <br />(-1.78414,0) .. controls  (-1.78414,1.9737) ..
+ <br />(0,1.9737) .. controls  (2.15482,1.9737) ..
+ <br />(2.15482,0) .. controls  (2.15482,-2.3271) ..
+ <br />(0,-2.3271) .. controls  (-2.49006,-2.3271) ..
+ <br />(-2.49006,0) .. controls  (-2.49006,2.64312) ..
+ <br />(0,2.64312) .. controls  (2.78561,2.64312) ..
+ <br />(2.78561,0) .. controls  (2.78561,-2.91667) ..
+ <br />(0,-2.91667) .. controls  (-3.03519,-2.91667) ..
+ <br />(-3.03519,0) .. controls  (-3.03519,3.13968) ..
+ <br />(0,3.13968) .. controls  (3.22792,3.13968) ..
+ <br />(3.22792,0) .. controls  (3.22792,-3.29607) ..
+ <br />(0,-3.29607) .. controls  (-3.33333,-3.29607) .. (-3.33333,0);
+ <br />\end{tikzpicture}
+</div>
+<!--l. 103--><p class="nopar" >
+</p><!--l. 106--><p class="indent" >   <span 
+class="ecrm-1200">Las coordenadas de los puntos que describen la espiral fueron calculadas</span>
+<span 
+class="ecrm-1200">previamente con otro programa.</span>
+</p><!--l. 109--><p class="indent" >   <span 
+class="ecrm-1200">En el caso de la portada, todo este entorno </span><span 
+class="ectt-1200">tikzpicture </span><span 
+class="ecrm-1200">fue encerrado dentro</span>
+<span 
+class="ecrm-1200">de una orden para que el resultado ﬁnal tuviera la misma anchura que la del</span>
+<span 
+class="ecrm-1200">rengl</span><span 
+class="ecrm-1200">ó</span><span 
+class="ecrm-1200">n:</span>
+                                                                          
+
+                                                                          
+</p>
+   <div class="verbatim" id="verbatim-4">
+\resizebox{\linewidth}{!}{%
+ <br />\begin{tikzpicture}
+ <br />\shadedraw[inner color=yellow,outer color=yellow!10!gray,draw=yellow]
+ <br />...
+ <br />\end{tikzpicture}}
+</div>
+<!--l. 118--><p class="nopar" >
+</p><!--l. 122--><p class="indent" >   <span 
+class="ecrm-1200">¡Y, ya est</span><span 
+class="ecrm-1200">á</span><span 
+class="ecrm-1200">!</span>
+</p>
+<div class="center" 
+>
+<!--l. 125--><p class="noindent" >
+</p><!--l. 127--><p class="noindent" >_____________________________________ <span 
+class="cmsy-10x-x-120">◇</span><span 
+class="cmsy-10x-x-207">◇</span><span 
+class="cmsy-10x-x-120">◇</span>_____________________</p></div>
+<!--l. 132--><p class="noindent" >
+                                                                          
+
+                                                                          
+                                                                          
+
+                                                                          
+</p>
+   <!--l. 2--><div class="crosslinks"><p class="noindent">[<a 
+ >front</a>] [<a 
+href="# "  >up</a>] </p></div>
+<!--l. 2--><p class="indent" >   <a 
+ id="tail"></a> </p> 
+</body> 
+</html>
