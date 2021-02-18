@@ -213,7 +213,7 @@ table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
 td.td00{ padding-left:0pt; padding-right:0pt; }
 td.td01{ padding-left:0pt; padding-right:5pt; }
 td.td10{ padding-left:5pt; padding-right:0pt; }
-td.td11{ padding-left:5pt; padding-right:5pt; font-size:x-large; }
+td.td11{ padding-left:5pt; padding-right:5pt; font-size:large; }
 table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
 .hline hr, .cline hr{ height : 1px; margin:0px; }
 div.array {text-align:center;}
